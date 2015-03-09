@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="WarGame/src"/>
+	<classpathentry kind="lib" path="WarGame/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="WarGame/aspectjrt-1.6.9.jar"/>
+	<classpathentry kind="lib" path="WarGame/aspectjweaver-1.6.9.jar"/>
+	<classpathentry kind="lib" path="WarGame/forms-1.3.0.jar"/>
+	<classpathentry kind="lib" path="WarGame/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
